@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bezdepozitnyy-bonus-za-registraciyu.github.io
+Sitemap: https://bezdepozitnyy-bonus-za-registraciyu.github.io/sitemap.xml
